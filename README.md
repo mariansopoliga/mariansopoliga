@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Marián Sopoliga
 
-<!--
-**mariansopoliga/mariansopoliga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm transitioning into IT from a 20+ year career in customer service, operations, and photography.
 
-Here are some ideas to get you started:
+Currently focused on:
+- ✅ Manual Software Testing
+- 🧪 Bug Reporting, Test Cases (TestRail, JIRA)
+- 🐍 Python (via Engeto Academy)
+- 🤖 Exploring AI and prompt-based workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Multilingual: Slovak, Czech, English (C1)  
+📍 Based in Czech Republic | Open to remote & relocation  
+📫 [LinkedIn Profile](https://www.linkedin.com/in/marian-sopoliga/)
+
+> Actively looking for junior QA, content evaluation, or digital support roles.
